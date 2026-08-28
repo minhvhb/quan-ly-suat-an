@@ -1,0 +1,10 @@
+streamlit
+pandas
+openpyxl
+gspread
+oauth2client
+google-genai
+pillow
+pypdf
+docx2txt
+python-docx
